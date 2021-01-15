@@ -1,2 +1,2 @@
-Hello this is First Git File.
 THis is second Commit
+Third commit deleted the first text.
